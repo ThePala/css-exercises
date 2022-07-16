@@ -1,0 +1,15 @@
+* {
+    font-size:64px;
+  }
+
+.Odd {background-color: rgb(228, 95, 95);
+color:black;
+font-family: Verdana, "DejaVu Sans", sans-serif;}
+
+.Cool {font-size:72px;}
+
+#two {font-size:100px;
+color:blue}
+
+#four{background-color: greenyellow;
+    font-weight: 900}
